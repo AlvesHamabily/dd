@@ -18,7 +18,7 @@ function HobbiesSection() {
   }, [images.length]);
 
   return (
-    <section id="hobbies" className="py-16 bg-white">
+    <section id="hobbies" className="py-16 primary">
       <div className="max-w-7xl mx-auto px-4 flex flex-col md:flex-row items-center">
         <div className="flex-1 text-center md:text-left p-4">
           <h2 className="text-3xl font-bold text-teal-600 mb-8">Hobbies</h2>

@@ -14,7 +14,7 @@ function ProfileSection() {
           </p>
         </div>
         <div className="flex-1">
-        <img src="/images/eu.jpg" alt="Foto de Hamábly Alves dos Santos" className="w-64 h-auto rounded-md mx-auto" />
+        <img src="/public/images/eu.png" alt="Foto de Hamábly Alves dos Santos" className="w-64 h-auto rounded-md mx-auto" />
         </div>
       </div>
     </section>

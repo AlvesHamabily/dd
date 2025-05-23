@@ -1,6 +1,6 @@
 import Navbar from './components/Navbar';
 import ProfileSection from './components/ProfileSection';
-import StudiesSection from './components/StudiesSection';
+import {StudiesSection} from './components/StudiesSection';
 import HobbiesSection from './components/HobbiesSection';
 import SocialSection from './components/SocialSection';
 

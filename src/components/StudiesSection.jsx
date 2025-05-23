@@ -1,4 +1,4 @@
-export function StudiesSection() {
+ export function StudiesSection() {
   const studyLinks = [
     { href: 'https://youtu.be/77pG2rellUk?si=djCGRLGaTO_upW6D', label: 'Curso em Vídeo (Youtube)' },
     { href: 'https://www.instagram.com/brasilcode_/', label: 'Brasil Code (Instagram)' },
@@ -49,5 +49,3 @@ export function StudiesSection() {
     </section>
   );
 }
-
- ;
